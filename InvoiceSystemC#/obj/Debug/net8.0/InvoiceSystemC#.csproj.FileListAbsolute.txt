@@ -1,0 +1,14 @@
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\bin\Debug\net8.0\InvoiceSystemC#.exe
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\bin\Debug\net8.0\InvoiceSystemC#.deps.json
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\bin\Debug\net8.0\InvoiceSystemC#.runtimeconfig.json
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\bin\Debug\net8.0\InvoiceSystemC#.dll
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\bin\Debug\net8.0\InvoiceSystemC#.pdb
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\obj\Debug\net8.0\InvoiceSystemC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\obj\Debug\net8.0\InvoiceSystemC#.AssemblyInfoInputs.cache
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\obj\Debug\net8.0\InvoiceSystemC#.AssemblyInfo.cs
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\obj\Debug\net8.0\InvoiceSystemC#.csproj.CoreCompileInputs.cache
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\obj\Debug\net8.0\InvoiceSystemC#.dll
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\obj\Debug\net8.0\refint\InvoiceSystemC#.dll
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\obj\Debug\net8.0\InvoiceSystemC#.pdb
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\obj\Debug\net8.0\InvoiceSystemC#.genruntimeconfig.cache
+C:\Users\orlan\Downloads\p2\SistemaFacturacionC#\InvoiceSystemC#\obj\Debug\net8.0\ref\InvoiceSystemC#.dll
