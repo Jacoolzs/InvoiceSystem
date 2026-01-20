@@ -5,9 +5,9 @@ namespace InvoiceSystem;
 public static class DataPersistence
 {
     // Nombres de archivos para cada entidad
-    private const string ProductsFile = "products.json";
-    private const string InvoicesFile = "invoices.json";
-    private const string QuantitiesFile = "product_quantities.json";
+    private const string ProductsFile = "Data/products.json";
+    private const string InvoicesFile = "Data/invoice.json";
+    private const string QuantitiesFile = "Data/product_quantities.json";
 
     private static readonly JsonSerializerOptions Options = new() { WriteIndented = true };
 

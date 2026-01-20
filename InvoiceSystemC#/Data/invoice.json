@@ -1,0 +1,36 @@
+[
+  {
+    "Id": 1,
+    "InvoiceName": "",
+    "Products": [
+      {
+        "Id": 1,
+        "Product": {
+          "Id": 1,
+          "Name": "Arroz",
+          "Description": "",
+          "ApplyTax": false,
+          "Price": 150
+        },
+        "Quantity": 2
+      }
+    ]
+  },
+  {
+    "Id": 2,
+    "InvoiceName": "Fac-001",
+    "Products": [
+      {
+        "Id": 1,
+        "Product": {
+          "Id": 1,
+          "Name": "Arroz",
+          "Description": "",
+          "ApplyTax": false,
+          "Price": 150
+        },
+        "Quantity": 3
+      }
+    ]
+  }
+]

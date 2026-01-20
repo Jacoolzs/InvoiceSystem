@@ -1,0 +1,9 @@
+[
+  {
+    "Id": 1,
+    "Name": "Arroz",
+    "Description": "",
+    "ApplyTax": false,
+    "Price": 150
+  }
+]
